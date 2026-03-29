@@ -1,2 +1,3 @@
 Hello DevOps Lab
 Learning Git is fun
+New feature added
